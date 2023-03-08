@@ -1,0 +1,27 @@
+.htu{
+    background-color: #000;
+    
+    
+}
+.pol1{
+ width: 99.5%;
+    height: 150px;
+    border: 2px solid #333;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(105.5deg, rgba(6, 243, 175, 0.9) 17.65%, rgba(15, 64, 149, 0.9));
+    
+.casa1{
+    width: 99%;
+    height: 9000px;
+    border: 2px solid #000;
+    
+}
+.nkl{
+  width: 560;
+    height: 315px;
+    border: 10px solid #fff;
+
+}
+
